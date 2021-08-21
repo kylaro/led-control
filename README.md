@@ -1,3 +1,3 @@
 # led-control
 
-SACN Packets C++ LED control E1.31
+Send SACN/E1.31 Packets using C++ for LED control over UDP
